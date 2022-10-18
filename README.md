@@ -1,2 +1,0 @@
-# Sandbox
-Jupyter notebooks
